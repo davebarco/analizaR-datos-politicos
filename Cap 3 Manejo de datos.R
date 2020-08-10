@@ -166,3 +166,6 @@ aprob_presidencial_anual_wide %>%
   pivot_wider(names_from = "anio", values_from = "aprob_neta")
 
 #pendiente por registrar últimos dos ejemplos.
+
+
+print("para el ejercicio de github, estoy agregando esto")
